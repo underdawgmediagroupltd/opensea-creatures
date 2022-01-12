@@ -10551,10 +10551,10 @@ opensea-js@^1.1.5:
     wyvern-js "git+https://github.com/ProjectOpenSea/wyvern-js.git#v3.2.1"
     wyvern-schemas "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#v0.11.1"
 
-openzeppelin-solidity@~4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-4.1.0.tgz#6f514efa71feb582920c7836184beed2bfc13319"
-  integrity sha512-eOTwAu5q909S+Lqi4QnTQClY8KLpdnpiddrrrCuDSDaOgohBbl4VMcJj325k67m2qyalqvHu/2Fj5qqj5V9oLw==
+openzeppelin-solidity@~4.4.1:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-4.4.2.tgz#caa3a5fc772de8a5c23524771ff952b9dd459f73"
+  integrity sha512-hwUZJ5HFWpSed9Toky8XVEPmKbRB7V/P+PwH6q/h9wyIzfYy3QM6qoj+XQv7GgM3UnjJzSsc/FP9XZlcMBQU1A==
 
 optimism@^0.14.0:
   version "0.14.1"
